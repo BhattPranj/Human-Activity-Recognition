@@ -11,7 +11,9 @@ The objective of this project is to extract time series features for human activ
   * Creating scatter plots for climbing up, climbing down, walking and running for head and chest in all directions (x,y,z)
 
 ## Dataset
-The dataset was obtained from [here](https://www.uni-mannheim.de/dws/research/projects/activity-recognition/dataset/). 
+The dataset was obtained from [here](https://www.uni-mannheim.de/dws/research/projects/activity-recognition/dataset/).
+
+It provides human activity data for 15 subjects. Click on each subject to access the time series data. For this project accelerometer data for all the 15 subjects for walking, running, climbing up and climbing down are considered. 
 
 The Human Activity data for 15 individuals for Climbing Up, Climbing Down, Walking and Running was used for the project. The project focuses on accelerometer sensor vibration in three directions (x,y,z). 
 
