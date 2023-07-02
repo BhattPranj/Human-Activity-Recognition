@@ -17,3 +17,5 @@ It provides human activity data for 15 subjects. Click on each subject to access
 
 The Human Activity data for 15 individuals for Climbing Up, Climbing Down, Walking and Running was used for the project. The project focuses on accelerometer sensor vibration in three directions (x,y,z). 
 
+
+The data set  extracted covers the acceleration, data of the activities climbing stairs down and up, jumping, lying, standing, sitting, running/jogging, and walking of fifteen subjects. For each activity, the on-body positions chest, forearm, head, shin, thigh, upper arm, and waist were simultaneously recorded.
