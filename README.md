@@ -4,7 +4,7 @@ This project focuses on extracting time series features for human activity monit
 
 ## Dataset
 
-The dataset for this project can be accessed through the following link: [Human Activity Dataset]([link-to-the-dataset](https://www.uni-mannheim.de/dws/research/projects/activity-recognition/dataset/))
+The dataset for this project can be accessed through the following link: [here](https://www.uni-mannheim.de/dws/research/projects/activity-recognition/dataset/).
 
 ## Task 1: Visibility Graph Analysis
 
