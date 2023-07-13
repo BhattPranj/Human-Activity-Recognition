@@ -18,6 +18,6 @@ It provides human activity data for 15 subjects. Click on each subject to access
 For this project, accelerometer data for all the 15 subjects for walking, running, climbing up and climbing down are considered. 
 For each activity, positions chest and head accelerometer data is considered. 
 
-The focus is  on accelerometer sensor vibration in three directions (x,y,z).
+The focus is  on analysis and visualization of accelerometer sensor vibration in three directions (x,y,z).
 
 
